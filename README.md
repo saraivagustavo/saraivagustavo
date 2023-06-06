@@ -33,11 +33,14 @@
   <a href="https://github.com/saraivagustavo">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saraivagustavo&theme=transparent" />
   </a>
+ 
+</details>
+    
+<p align="center">
   <a href="https://github.com/saraivagustavo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraivagustavo&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://komarev.com/ghpvc/?username=saraivagustavo&color=blue&style=flat)" />
   </a>
 </p>
-</details>
 
 <!--
 
