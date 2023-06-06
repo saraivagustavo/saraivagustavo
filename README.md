@@ -39,11 +39,6 @@
 </p>
 </details>
 
-<p align="center">
-  <a href="https://github.com/saraivagustavo">
-    <img src="https://komarev.com/ghpvc/?username=saraivagustavo&color=blue&style=flat)" />
-  </a>
-</p>
 <!--
 
 - 🔭 I’m currently working on ...
