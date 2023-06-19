@@ -7,8 +7,8 @@
         Currently studying Computer Science.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-    [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-saraiva-222386235/)
 </p>
+    [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-saraiva-222386235/)
 
 ### Languages
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/saraivagustavo)
