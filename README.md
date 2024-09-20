@@ -6,6 +6,7 @@
         Hi 👋, I'm Gustavo<br>A passionate developer from Brazil!<br><br>🌱 I am currently studying Information Systems<br>📫 How to reach me: saraivaifes@gmail.com<br>⚡ Fun fact: I like to draw landscapes<br>👨‍💻 A little more about me: https://saraivagustavo.github.io/PORTFOLIO/
     </i>
     <br>
+    <b></b>
     <a href=https://www.linkedin.com/in/gustavo-saraiva-222386235/>
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
