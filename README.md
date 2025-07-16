@@ -1,7 +1,7 @@
 <h1 align="center">👽 Gustavo Saraiva Mariano</h1>
 
 <p align="center">
-  <i>Cientista e engenheiro de Dados | Estudante de Sistemas da Informação | Entusiasta em Inteligência Artificial</i>
+  <i>Cientista e Engenheiro de Dados | Estudante de Sistemas da Informação | Entusiasta em Inteligência Artificial</i>
 </p>
 
 ---
