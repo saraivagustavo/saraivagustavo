@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Me chamo Gustavo Saraiva, tenho 20 anos e moro em Viila Velha - ES. Sou estudante de **Sistemas da Informação pelo IFES** e estou me aprofundando na área de dados, com foco em ciência e engenharia de dados, utilizaando ferramentas como **Python, SQL, Power BI**.
+Olá! Me chamo Gustavo Saraiva, tenho 20 anos e moro em Viila Velha - ES. Sou estudante de **Sistemas da Informação pelo IFES** e estou me aprofundando na área de dados, uma área pela qual recentemente tenho me encantado bastante, atualmente estou com o foco em ciência e engenharia de dados, utilizaando ferramentas como **Python, SQL e Power BI, além de estar iniciando em R**.
 
 ---
 
