@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Me chamo Gustavo Saraiva, tenho 20 anos e moro em Viila Velha - ES. Sou estudante de **Sistemas da Informação pelo IFES** e estou me aprofundando na área de dados, na qual recentemente tenho me encantado bastante, atualmente estou com o foco em ciência e engenharia de dados, utilizando ferramentas como **Python, SQL e Power BI, além de estar iniciando em R**.
+Olá! Me chamo Gustavo Saraiva, tenho 20 anos e moro em Vila Velha - ES. Sou estudante de **Sistemas da Informação pelo IFES** e estou me aprofundando na área de dados, pela qual recentemente tenho me encantado bastante, atualmente estou com o foco em ciência e engenharia de dados, utilizando ferramentas como **Python, SQL e Power BI, além de estar iniciando em R**.
 
 ---
 
@@ -16,7 +16,7 @@ Olá! Me chamo Gustavo Saraiva, tenho 20 anos e moro em Viila Velha - ES. Sou es
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,c,cs,java,postgresql,mysql,git,github,linux,windows" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,c,cs,cpp,java,kotlin,postgresql,mysql,git,github,linux,windows" alt="Tech Stack"/>
   </a>
 </p>
 
