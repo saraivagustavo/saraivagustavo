@@ -16,7 +16,7 @@ Olá! Me chamo Gustavo Saraiva, tenho 20 anos e moro em Vila Velha - ES. Sou est
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,c,cs,cpp,java,kotlin,postgresql,mysql,sqlite,git,github,linux,windows,django,fastapi" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,c,cs,cpp,java,kotlin,postgresql,mysql,sqlite,git,github,linux,windows,django,fastapi,vscode,visualstudio,pycharm" alt="Tech Stack"/>
   </a>
 </p>
 
