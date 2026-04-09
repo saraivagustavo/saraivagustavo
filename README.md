@@ -22,15 +22,6 @@ Olá! Me chamo Gustavo Saraiva, tenho 21 anos e moro em Vila Velha - ES. Sou est
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=saraivagustavo&show_icons=true&theme=radical" alt="Gustavo Saraiva GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraivagustavo&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
 ### 📫 Conecte-se comigo
 
 <p align="center">
